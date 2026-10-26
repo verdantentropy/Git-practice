@@ -1,0 +1,1 @@
+This "website" was made to practice Git
